@@ -2,8 +2,6 @@
   <img src="logo.png" alt="Sectrend" width="420" />
 </p>
 
-<h1 align="center">Sectrend</h1>
-
 <p align="center">Software supply chain security for the AI era.</p>
 
 <p align="center">
