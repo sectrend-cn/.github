@@ -5,8 +5,8 @@
   </picture>
 </p>
 
-<h3 align="center">Software supply chain security for the AI era</h3>
-<p align="center">AI 时代的软件供应链安全</p>
+<h3 align="center">From Vibe to Value</h3>
+<p align="center">从灵感到价值</p>
 
 <p align="center">
   We help teams see and govern risk across source code, open-source components, binaries, and AI agents.
@@ -28,6 +28,7 @@
 | Binaries | **CleanBinary** | Binary composition analysis |
 | AI agents | **SkillSec** | Security and capability audit for AI agent skills |
 | AI agents | **PureStream** | Governance for model and agent workflows |
+| Engineering quality | [**Pluvy**](https://github.com/sectrend-cn/pluvy) | Engineering policy gate for code written by people and coding agents |
 
 ## Get in touch
 
